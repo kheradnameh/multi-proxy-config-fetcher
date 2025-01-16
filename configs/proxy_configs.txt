@@ -6,11 +6,11 @@
 
 wireguard://0KXxafjAAfrNi5TvC2S4ntOOYj%2BF7Y9NR%2Fjnpt2GHHs%3D@188.114.99.41:8854?address=172.16.0.2%2F32&reserved=7%2C50%2C94&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
 
+wireguard://0KXxafjAAfrNi5TvC2S4ntOOYj%2BF7Y9NR%2Fjnpt2GHHs%3D@188.114.99.41:8854?address=172.16.0.2%2F32&reserved=7%2C50%2C94&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 wireguard://4PnjrMysNFgDw7ZKt9HdmlN3Qu1iO9u9zRv0DGW4CE4%3D@188.114.97.20:8886?address=172.16.0.2%2F32&reserved=43%2C162%2C218&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon7
 
 wireguard://4PnjrMysNFgDw7ZKt9HdmlN3Qu1iO9u9zRv0DGW4CE4%3D@188.114.97.20:8886?address=172.16.0.2%2F32&reserved=43%2C162%2C218&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
-wireguard://4PybsgZ6lQd3Rf%2BOpi4zn8VLSPY3stO6FstDQ8bvW2I%3D@188.114.99.159:3476?address=172.16.0.2%2F32&reserved=44%2C137%2C39&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon6
 
 hysteria2://1c0b8d7b-5617-4a07-acd2-315da2340ec9@209.141.42.49:443?security=tls&insecure=1&mport=50000-53000&sni=www.bing.com#Ir-%40V2ray_Alpha-3
 
@@ -88,8 +88,6 @@ vless://253ef561-9e57-4336-befd-878ddd30df01@gozargah8.fast.hosting-ip.com:80?pa
 
 trojan://3723507166611775488@195.133.93.10:443?security=tls&headerType=none&type=tcp&sni=social-bream.boa152.lol#WiFi-%40V2ray_Alpha-15
 
-trojan://3723507166611775488@195.133.93.10:443?security=tls&headerType=none&type=tcp&sni=social-bream.boa152.lol#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&headerType=none&type=tcp&sni=nextstepcareer.online#Channel%20id%3A%20%40ShadowProxy66%20 Country: Canada 🇨🇦 Region: Ontario City: Toronto Zip Code: M5A ISP: Cloudflare, Inc.
 
 trojan://4732adfa16c6450bbef87264e41332db@165.22.74.230:443?security=tls&headerType=none&type=tcp&sni=nextstepcareer.online#Channel%20id%3A%20%40ShadowProxy66%20 Country: United States 🇺🇸 Region: Florida City: Miami Zip Code: 33197 ISP: Stark Industries Solutions LTD
@@ -135,6 +133,8 @@ trojan://telegram-id-directvpn@16.170.107.65:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@16.170.22.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@18.156.113.19:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@18.189.158.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#IR-%40V2ray_Alpha-2
 
@@ -190,11 +190,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZldaYnh0WG5QWDZzU0ZfbjlieXh3@195.49.215.3:2
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#IR-%40V2ray_Alpha-3
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkRWxkVHprcVZsaE9SVWhiZWpnK01UNURQeWhjVlVvd1dsMWFhMEZzYlZrPQ==@95.217.72.126:3882#%F0%9F%87%AB%F0%9F%87%AEFI%20%7C%20@OutlineReleasedKeyOutline KeysVless|Trojan|Hysteria1/2|TUIC KeysPremium Outline|Vless-Reality Keys Bot#Outline #OutlineVPN #Shadowsocks #VPN #FreeVPN
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkdXdzSWVqT3lReDV6Um43Mk9jU1M5@150.241.102.95:21771#IR-%40V2ray_Alpha-4
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplU0hFZEp6OTZycU5rT0NBemQ1Q3N2@94.131.123.147:7383#WiFi-%40V2ray_Alpha-8
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMWdJdVYyVlhHQ2pvcko1ZHdnT1VF@146.190.103.193:28813#%F0%9F%87%B8%F0%9F%87%ACSG%20%7C%20@OutlineReleasedKeyOutline KeysVless|Trojan|Hysteria1/2|TUIC KeysPremium Outline|Vless-Reality Keys Bot#Outline #OutlineVPN #Shadowsocks #VPN #FreeVPN
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnaEJ1SjlwWk9GOU1vaGhHeVBqbzNydmlsUWhsdzlOekJEbE9WRG9uUU4wPQ==@195.15.254.25:54748#%F0%9F%87%A8%F0%9F%87%ADCH%20%7C%20@OutlineReleasedKeyOutline KeysVless|Trojan|Hysteria1/2|TUIC KeysPremium Outline|Vless-Reality Keys Bot#Outline #OutlineVPN #Shadowsocks #VPN #FreeVPN
 
