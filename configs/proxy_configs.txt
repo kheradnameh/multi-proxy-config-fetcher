@@ -20,8 +20,6 @@ wireguard://WC5%2BVzzLdA%2BCup1lHGgFj6NWCVoHsGU2Q6cMQ3AvQk0%3D@188.114.99.105:10
 
 wireguard://aG3enuNak5o75CmICvBRrqWROJK%2FTm5tru97%2FXQOJHk%3D@162.159.195.210:908?address=172.16.0.2%2F32&reserved=159%2C145%2C38&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon4
 
-wireguard://aG3enuNak5o75CmICvBRrqWROJK%2FTm5tru97%2FXQOJHk%3D@162.159.195.210:908?address=172.16.0.2%2F32&reserved=159%2C145%2C38&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 wireguard://eMppwyG5%2FJCfgokFblb4nEXQaL548H557kliLS39rVo%3D@162.159.192.143:1002?address=172.16.0.2%2F32&reserved=46%2C253%2C187&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon10
 
 wireguard://mJnLjpJUsl7LefmdFIu2VqfUR5Du5KkEuxNmPGaCdnA%3D@188.114.98.250:880?address=172.16.0.2%2F32&reserved=142%2C195%2C41&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon2
@@ -92,13 +90,13 @@ vless://157448af-8ecf-4075-a9e9-b23a6a94899b@mad-es.fromblancwithlove.com:8443?s
 
 vless://157448af-8ecf-4075-a9e9-b23a6a94899b@mil-it.fromblancwithlove.com:8443?security=tls&alpn=h2&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%9A%80%40proxy_shadosocks%F0%9F%9A%80
 
+trojan://243eab52-9ac1-405c-887c-eb112c0985b8@74.226.136.204:443?security=tls&sni=ru01.trojanyyds.xyz#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#%F0%9F%94%AE6%40oneclickvpnkeys
 
+trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@36.151.194.64:46002?#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
-trojan://62ab7405-f2f3-4e76-b2d8-b6b1b1fe4fd0@103.77.247.224:443?security=tls&sni=kdlsupport.zendesk.com&type=tcp#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
-trojan://68601963-27c2-4253-c784-914782ce09ef@151.101.66.219:80?security=none&type=ws&host=foffmelo.com&path=/olem/ws?#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#@meli_proxyy
 
@@ -114,7 +112,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozRkIyM0ExOS05NDI0LTQwQzctOTEzOS0zNTQwMjI4Mjg
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig84.usecharge.ir:443#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
-vmess://ewogICAgImFkZCI6ICJzMi5jbi1kYi50b3AiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIxMDAtMjItNjYtMTQuczIuY24tZGIudG9wIiwKICAgICJpZCI6ICI0YjM2NjI1Yy1iOWQ5LTNlYTYtYWVkNS04NmQ2MmM3MGUxNmQiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZGFiYWkuaW4xMDQuMjEuMjIuMTk5IiwKICAgICJwb3J0IjogMjA4MiwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjE3LjIyMS4yNDgtMDg1NiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICAgImFkZCI6ICJwb3J0bGFuZC44OTk5OTQueHl6IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAicG9ydGxhbmQuODk5OTk0Lnh5eiIsCiAgICAiaWQiOiAiYTA2MDU1MjctMjhlNC00NDljLTgwZWUtNTY0MmNjMTZhOGFmIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2luZGV4IiwKICAgICJwb3J0IjogODQ0MywKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjgwLjEtNjE4NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 
 vmess://eyJhZGQiOiAiMTA0LjE5LjE1MC4xMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJtY2kubXRuLmlyLmNvbS5vcmcubmV0LmJ1eWtpdC5pci4iLCAiaWQiOiAiOTRmMzMyYjAtYzVkMy00NTMxLWExZDYtNmU2MzU4Y2M2YzcyIiwgIm5ldCI6ICJodHRwdXBncmFkZSIsICJwYXRoIjogIi9kM2QzTG1seVlXNW9iM04wTG1OdmJRPT0/ZWQ9MjU2MCIsICJwb3J0IjogIjIwOTUiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLUhUVFBVUEdSQURFLU5BIFx1ZDgzY1x1ZGZmNFx1MjAwZFx1MjYyMFx1ZmUwZiBOQS0xMDQuMTkuMTUwLjEwOjIwOTUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
 
