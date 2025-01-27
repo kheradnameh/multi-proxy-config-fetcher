@@ -90,17 +90,17 @@ trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443?security=t
 
 trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#%F0%9F%94%AE6%40oneclickvpnkeys
 
-trojan://3763495894587285504@185.67.125.147:443?security=tls&headerType=&type=tcp&sni=optimal-owl.goat627.mom#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
-trojan://3763495894587285504@artistic-snapper.goat627.mom:443?security=tls&sni=artistic-snapper.goat627.mom&allowInsecure=1&type=tcp#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://3763495894587285504@185.67.125.147:443?security=tls&headerType=&type=tcp&sni=optimal-owl.goat627.mom#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VGN6TjFqNjNLYkxhbUVlWFlqTlFqN2Q3SS9VUGhPWldwSjVxQm9JL2YxMD06Tk1aWDJXYWpqU2hwZWNXdnhVNVRJc1BRR0pFYUMxckY5ekNCc0EzdGhKZz0@23.88.39.22:22301#%F0%9F%87%A9%F0%9F%87%AA%20DE-23.88.39.22%3A22301 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132:8080#%40V2rayNG3 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxSERGOTlsWDRsM3EwVEVLRThkR2Vm@13.49.69.38:64731/?POST%20#Server-3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMElLdWlTejhxQ3hsb3ZURUtrd2d4@13.51.172.229:6749/?POST%20#Server-3
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxSERGOTlsWDRsM3EwVEVLRThkR2Vm@13.49.69.38:64731/?POST%20#Server-4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMElLdWlTejhxQ3hsb3ZURUtrd2d4@13.51.172.229:6749/?POST%20#Server-4
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.158.171.151:8080#%F0%9F%87%B3%F0%9F%87%B1NL%20%7C%20@OutlineReleasedKeyOutline KeysVless|Trojan|Hysteria1/2|TUIC KeysPremium Outline|Vless-Reality Keys Bot#Outline #OutlineVPN #Shadowsocks #VPN #FreeVPN
 
@@ -138,9 +138,9 @@ vmess://eyJhZGQiOiI1LjM5LjI1NC4xOTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 vmess://eyJhZGQiOiI1LjM5LjI1NC4xOTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMzk4Y2U4NGUtNDg0OS00ZTVmLTliMWEtYTU2ZmJlMjMzYjgxIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjIzOTg1IiwicHMiOiLwn5SuMTBAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
+vmess://eyJhZGQiOiI1Ljc1LjE5NC4xMzAiLCJhaWQiOiIwIiwiaG9zdCI6InRlbGV3ZWJpb24uY29tIiwiaWQiOiJmYWU2ODFjNC0wM2UwLTQzMjYtYTQ2OS0yNTM4MDI4NzU2NTQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjY3NjMiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+
 vmess://eyJhZGQiOiI1Ljc1LjIwMS4zOSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI1M2U2ZGQzOS0yN2Q0LTQwNjMtODE3YS05YzAwYjA3N2EyYjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU5NTIxIiwicHMiOiIoQFZtZXNzUHJvdG9jb2wp2KjYsdin24wg2K7YsduM2K8g2Ygg2KfYqti12KfZhCDYr9in2KbZhduMINis2YjbjNmGINi02Yjwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiI1MS4xOTUuMTUyLjIxMCIsImFpZCI6IjAiLCJob3N0Ijoic25hcHAuaXIiLCJpZCI6ImQ3MzNmMDJhLWMxMzEtNDE3Zi1jODE1LTExM2NkNjRiODUyMSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjI4NTc4IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-
-vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMi5tdXNpY2ZhMTIzLmlyLiIsImlkIjoiOTRmMzMyYjAtYzVkMy00NTMxLWExZDYtNmU2MzU4Y2M2YzcyIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjIwOTUiLCJwcyI6IuKchdiz2LHZiNix2YfYp9uM2KjbjNi02KrYsdiv2LHaqdin2YbYp9mEOnBycm9maWxlX3B1cnBsZUDinIUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
