@@ -20,8 +20,6 @@ wireguard://IKty6FLNIMuaLr5p2cji3R93sVZt8gJJPPq1YJoWPnE%3D@188.114.96.100:880?ad
 
 wireguard://UMuQERxp1Ke%2BzFomH7oS1sJ8AvuzGFC2ZB6hdkNdI2o%3D@188.114.99.121:946?address=172.16.0.2%2F32&reserved=100%2C9%2C238&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
 
-wireguard://UMuQERxp1Ke%2BzFomH7oS1sJ8AvuzGFC2ZB6hdkNdI2o%3D@188.114.99.121:946?address=172.16.0.2%2F32&reserved=100%2C9%2C238&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 wireguard://WNo2RPwXow7GbFg78EO1SyskcsLMMBwb38P5nFul5UQ%3D@188.114.98.221:987?wnoise=quic&address=172.16.0.2%2F32&reserved=106%2C78%2C122&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B8
 
 wireguard://YAnDZifFbyWRebKaibN%2FtTOvaTvZgUiuAumd2jrbamc%3D@188.114.98.7:1002?address=172.16.0.2%2F32&reserved=229%2C5%2C36&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
@@ -33,6 +31,8 @@ wireguard://YAnDZifFbyWRebKaibN%2FtTOvaTvZgUiuAumd2jrbamc%3D@188.114.98.7:1002?w
 wireguard://YBizy5bKbtl2pSJl5B62InAobBuXJEZzuWd4MhrLjXA%3D@188.114.99.103:1018?address=172.16.0.2%2F32&reserved=125%2C82%2C252&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon6
 
 wireguard://YBizy5bKbtl2pSJl5B62InAobBuXJEZzuWd4MhrLjXA%3D@188.114.99.103:1018?wnoise=quic&address=172.16.0.2%2F32&reserved=125%2C82%2C252&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B6
+
+wireguard://cLAoqv%2FMjlq9xo1B9ELJSq3p92afLmixuMXe6E4vgG8%3D@188.114.96.130:945?wnoise=quic&address=172.16.0.2%2F32&reserved=241%2C153%2C39&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B5
 
 hysteria2://0e57e0a8-939e-478d-8513-63b70e961e21@weilai-nl.sanguayun.com:443?security=tls&insecure=0&mport=13001-13999&sni=weilai-nl.sanguayun.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
@@ -92,21 +92,21 @@ vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?path=telegramFree
 
 trojan://061a01f1-704b-4712-8e12-6d3fc95a127d@36.228.251.135:20071?security=tls&sni=taobao.phantasy.life&type=tcp#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
+trojan://3747000103274291200@awaited-chicken.adder289.quest:443?security=tls&sni=awaited-chicken.adder289.quest&type=tcp#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://3747000103274291200@model-fly.adder289.quest:443?security=tls&headerType=none&type=tcp&sni=model-fly.adder289.quest#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
 trojan://3747000103274291200@model-fly.adder289.quest:443?security=tls&headerType=none&type=tcp&sni=model-fly.adder289.quest#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://3747000103274291200@oriented-pug.adder289.quest:443?security=tls&headerType=none&type=tcp&sni=oriented-pug.adder289.quest#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA✅️تا توان گریختن نیست، خدا را شکریستتنها ایدی خرید کانفیگ اختصاصی : @V2rayvlessbot ☑️پشتیبانی: @bilichilii_back ✅️چنل ها:@VmessProtocol@V2rayProtocolتمامی رباتهای که در اخر چنل توسط تبلیغات تلگرام قرار داده میشوند دزد و کلاه بردار هستن مواظب باشید
 
+trojan://3747000103274291200@trusting-titmouse.adder289.quest:443?security=tls&sni=trusting-titmouse.adder289.quest&type=tcp#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://3778399737045327872@35.77.146.185:443?security=tls&allowInsecure=1&type=tcp#https://t.me/ShadowsocksM
 
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@www.tiktok.com.jp1.viefast.net:443?security=tls&headerType=none&type=tcp&sni=kdlsupport.zendesk.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA✅️تا توان گریختن نیست، خدا را شکریستتنها ایدی خرید کانفیگ اختصاصی : @V2rayvlessbot ☑️پشتیبانی: @bilichilii_back ✅️چنل ها:@VmessProtocol@V2rayProtocolتمامی رباتهای که در اخر چنل توسط تبلیغات تلگرام قرار داده میشوند دزد و کلاه بردار هستن مواظب باشید
 
 trojan://3bcd9e33-8377-4b32-af33-217158577ff3@www.tiktok.com.jp3.viefast.net:443?security=tls&headerType=none&type=tcp&sni=kdlsupport.zendesk.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-
-trojan://43e5eeacbad3032bfe4c25a2f011b6b7@104.251.227.182:443?security=tls&headerType=none&type=tcp&sni=hezijiasuqi.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
-
-trojan://936c6853-6bbf-4e24-8667-ec5b2fc275b3@104.26.14.85:443?path=%2FTelegram%40FreeV2Alpha&security=tls&host=md1.safecdn.site&type=ws&sni=md1.safecdn.site#@meli_proxyy
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#%F0%9F%87%B1%F0%9F%87%B9%20LT-45.87.175.171%3A8080 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -199,6 +199,8 @@ ss://YWVzLTI1Ni1nY206MUhQdXJ3Wk9QaWlFSDUweQ==@fra5.vpntype.dev:8388#%F0%9F%87%A9
 ss://YWVzLTI1Ni1nY206V1FhSXFWK0w5RjFkRGZPenhVODFqWUloYzNhSkVuQnc5MDVSUmVDVGxhST0=@31.58.143.111:26284#%F0%9F%87%B8%F0%9F%87%ACSG%20%7C%20@OutlineReleasedKeyOutline KeysVless|Trojan|Hysteria1/2|TUIC KeysPremium Outline|Vless-Reality Keys Bot#Outline #OutlineVPN #Shadowsocks #VPN #FreeVPN
 
 ss://YWVzLTI1Ni1nY206VjRSMFhNN0dNRVpGOVFBNQ==@156.231.104.22:18012#%F0%9F%87%AF%F0%9F%87%B5JP%20%7C%20@OutlineReleasedKeyOutline KeysVless|Trojan|Hysteria1/2|TUIC KeysPremium Outline|Vless-Reality Keys Bot#Outline #OutlineVPN #Shadowsocks #VPN #FreeVPN
+
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.77.53.200:5001#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw%2C%2014%2C%20Poland%20%2824%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@23.157.40.113:9101#%F0%9F%87%BA%F0%9F%87%B8%20Santa%20Clara%2C%20CA%2C%20United%20States%20%2847%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
