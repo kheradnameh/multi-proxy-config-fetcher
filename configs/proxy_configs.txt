@@ -16,15 +16,11 @@ wireguard://EOg5gRm1wqcWF5rVOnn6lA%2BJrL2dHFpZ1UOObrF%2FelU%3D@188.114.97.61:903
 
 wireguard://IKty6FLNIMuaLr5p2cji3R93sVZt8gJJPPq1YJoWPnE%3D@188.114.96.100:880?address=172.16.0.2%2F32&reserved=144%2C165%2C89&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon8
 
-wireguard://IKty6FLNIMuaLr5p2cji3R93sVZt8gJJPPq1YJoWPnE%3D@188.114.96.100:880?address=172.16.0.2%2F32&reserved=144%2C165%2C89&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 wireguard://UMuQERxp1Ke%2BzFomH7oS1sJ8AvuzGFC2ZB6hdkNdI2o%3D@188.114.99.121:946?address=172.16.0.2%2F32&reserved=100%2C9%2C238&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
 
 wireguard://WNo2RPwXow7GbFg78EO1SyskcsLMMBwb38P5nFul5UQ%3D@188.114.98.221:987?wnoise=quic&address=172.16.0.2%2F32&reserved=106%2C78%2C122&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B8
 
 wireguard://YAnDZifFbyWRebKaibN%2FtTOvaTvZgUiuAumd2jrbamc%3D@188.114.98.7:1002?address=172.16.0.2%2F32&reserved=229%2C5%2C36&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
-
-wireguard://YAnDZifFbyWRebKaibN%2FtTOvaTvZgUiuAumd2jrbamc%3D@188.114.98.7:1002?address=172.16.0.2%2F32&reserved=229%2C5%2C36&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 wireguard://YAnDZifFbyWRebKaibN%2FtTOvaTvZgUiuAumd2jrbamc%3D@188.114.98.7:1002?wnoise=quic&address=172.16.0.2%2F32&reserved=229%2C5%2C36&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%C2%B9
 
@@ -33,6 +29,10 @@ wireguard://YBizy5bKbtl2pSJl5B62InAobBuXJEZzuWd4MhrLjXA%3D@188.114.99.103:1018?a
 wireguard://YBizy5bKbtl2pSJl5B62InAobBuXJEZzuWd4MhrLjXA%3D@188.114.99.103:1018?wnoise=quic&address=172.16.0.2%2F32&reserved=125%2C82%2C252&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B6
 
 wireguard://cLAoqv%2FMjlq9xo1B9ELJSq3p92afLmixuMXe6E4vgG8%3D@188.114.96.130:945?wnoise=quic&address=172.16.0.2%2F32&reserved=241%2C153%2C39&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%E2%81%B5
+
+wireguard://iIvivETnGdrZM%2BlgGV%2FqxK1tl6RKqDayDgXRvwXfxXc%3D@188.114.97.117:1014?address=172.16.0.2%2F32&reserved=100%2C32%2C64&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon2
+
+wireguard://iIvivETnGdrZM%2BlgGV%2FqxK1tl6RKqDayDgXRvwXfxXc%3D@188.114.97.117:1014?wnoise=quic&address=172.16.0.2%2F32&reserved=100%2C32%2C64&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%C2%B9%E2%81%B0کانفیگهای وایرگارد وارپاد کنید توی کلاینت NikaNg یا هر کلاینتی V2ray و استفاده کنید(متصل با همه اپراتورها)⚡️ @ShadowProxy66
 
 hysteria2://0e57e0a8-939e-478d-8513-63b70e961e21@weilai-nl.sanguayun.com:443?security=tls&insecure=0&mport=13001-13999&sni=weilai-nl.sanguayun.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
