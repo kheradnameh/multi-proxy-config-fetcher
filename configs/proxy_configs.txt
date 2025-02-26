@@ -12,10 +12,6 @@ wireguard://%2BJoXewbDcZ1hdM%2Fx2F9FIWxNXq3uYQinrzRxf4nt0mI%3D@188.114.96.237:96
 
 wireguard://%2BO3tJT5PUgzpF5hesR7ClqJC5QJ78PfYN275hLehZW0%3D@188.114.99.24:903?address=172.16.0.2%2F32&reserved=138%2C231%2C210&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
 
-wireguard://%2BO3tJT5PUgzpF5hesR7ClqJC5QJ78PfYN275hLehZW0%3D@188.114.99.24:903?address=172.16.0.2%2F32&reserved=138%2C231%2C210&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
-wireguard://6MbMTFuAe1uJJEtgN2UsYJ13L7z1kBWcFKPJqTX0JHw%3D@188.114.97.218:908?address=172.16.0.2%2F32&reserved=238%2C147%2C197&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon8
-
 hysteria2://0e57e0a8-939e-478d-8513-63b70e961e21@weilai-nl.sanguayun.com:443?security=tls&insecure=0&mport=13001-13999&sni=weilai-nl.sanguayun.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
 hysteria2://15261735-2168-42f8-b3ad-91ec82a58b5a@yiyuankuailian-jp.jiumaojiu.org:21050?security=tls&insecure=0#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
@@ -94,25 +90,11 @@ trojan://3747000103274291200@oriented-pug.adder289.quest:443?security=tls&header
 
 trojan://43e5eeacbad3032bfe4c25a2f011b6b7@104.251.227.182:443?security=tls&headerType=none&type=tcp&sni=hezijiasuqi.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
+trojan://Aimer@162.159.44.168:443?sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://Ng35283528@gozargah5.cloudflare3-80.hosting-ip.com:443?path=%2F%3Fed%3D2560&security=tls&host=c2.validbv3528.eu.org&fp=randomized&type=ws&sni=c2.validbv3528.eu.org#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://ac07ddf4-a3ad-4272-a9de-d1209914cc2b@134.209.78.237:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&fp=randomized&type=tcp&sni=quangtien.appsflyer.com#@meli_proxyy
-
-trojan://ac07ddf4-a3ad-4272-a9de-d1209914cc2b@134.209.78.237:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&fp=randomized&type=tcp&sni=quangtien.appsflyer.com#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MFh3ZzBTYkhTTDhDdUNraUx1R2hP@188.126.83.26:15128/?POST%20#Server-2
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@th.fastsoonlink.com:40009#%F0%9F%87%B9%F0%9F%87%ADTH%20%7C%20@OutlineReleasedKeyOutline KeysVless|Trojan|Hysteria1/2|TUIC KeysPremium Outline|Vless-Reality Keys Bot#Outline #OutlineVPN #Shadowsocks #VPN #FreeVPN
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#ir%F0%9F%9A%80%40proxy_shadosocks%F0%9F%9A%80
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHWjNodllhRkJwNTJIdXBHQ0NPS3dz@159.65.17.32:80#%F0%9F%87%AC%F0%9F%87%A7GB%20%7C%20@OutlineReleasedKeyOutline KeysVless|Trojan|Hysteria1/2|TUIC KeysPremium Outline|Vless-Reality Keys Bot#Outline #OutlineVPN #Shadowsocks #VPN #FreeVPN
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw%3D%3D@89.221.224.166:8388#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVFZsTXpjeQ%3D%3D@185.231.205.179:8388#@meli_proxyy
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQSTNuY3hGMkdQdVBpQjFsNWdpdGNP@188.126.93.68:63418/?POST%20#Server-4
 
 vmess://ewogICAgImFkZCI6ICI1LjE5Ni4yOS4xMjMiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiAyMDgyLAogICAgInBzIjogIvCfh6vwn4e3RlItNS4xOTYuMjkuMTIzLTA0MzAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 
@@ -149,4 +131,18 @@ vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiIxMDQuMTkuMTUwLjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJtY2kubXRuLmlyLmNvbS5vcmcubmV0Lm9tMi5tdXNpY2ZhMTIzLmlyLiIsImlkIjoiOTRmMzMyYjAtYzVkMy00NTMxLWExZDYtNmU2MzU4Y2M2YzcyIiwibmV0IjoiaHR0cHVwZ3JhZGUiLCJwYXRoIjoiL2QzZDNMbWx5WVc1b2IzTjBMbU52YlFcdTAwM2RcdTAwM2Q/ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjIwOTUiLCJwcyI6IuKchdiz2LHZiNix2YfYp9uM2KjbjNi02KrYsdiv2LHaqdin2YbYp9mEOnBycm9maWxlX3B1cnBsZUDinIUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiIxMDQuMjEuMTYuOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImlyLm15a2V0Lm5hbWUubmciLCJpZCI6ImNkM2JmM2UyLWZiZDktNDdjOC05YTQyLTY1Y2VhMWMwYmRjZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA1MyIsInBzIjoiQG1lbGlfcHJveHl52LPYsdmI2LHYp9uM4oCM2KjbjNi02KrYsSIsInNjeSI6ImF1dG8iLCJzbmkiOiJpci5teWtldC5uYW1lLm5nIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MFh3ZzBTYkhTTDhDdUNraUx1R2hP@188.126.83.26:15128/?POST%20#Server-2
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmJiMzA3Mi03ZWZkLTRkNjctOWJlYi0yY2Q5YzE4ZTY5ZjQ=@th.fastsoonlink.com:40009#%F0%9F%87%B9%F0%9F%87%ADTH%20%7C%20@OutlineReleasedKeyOutline KeysVless|Trojan|Hysteria1/2|TUIC KeysPremium Outline|Vless-Reality Keys Bot#Outline #OutlineVPN #Shadowsocks #VPN #FreeVPN
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.107.6:443#ir%F0%9F%9A%80%40proxy_shadosocks%F0%9F%9A%80
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHWjNodllhRkJwNTJIdXBHQ0NPS3dz@159.65.17.32:80#%F0%9F%87%AC%F0%9F%87%A7GB%20%7C%20@OutlineReleasedKeyOutline KeysVless|Trojan|Hysteria1/2|TUIC KeysPremium Outline|Vless-Reality Keys Bot#Outline #OutlineVPN #Shadowsocks #VPN #FreeVPN
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOakJsWkRsaw%3D%3D@89.221.224.166:8388#@meli_proxyy
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVFZsTXpjeQ%3D%3D@185.231.205.179:8388#@meli_proxyy
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQSTNuY3hGMkdQdVBpQjFsNWdpdGNP@188.126.93.68:63418/?POST%20#Server-4
 
