@@ -54,8 +54,6 @@ vless://10525b84-7f6e-43ef-912b-87434df813f4@162.159.38.232:443?path=%2Fwss&secu
 
 vless://10525b84-7f6e-43ef-912b-87434df813f4@172.64.34.232:443?path=%2Fwss&security=tls&alpn=http%2F1.1&encryption=none&host=news5.testsnew.com&type=ws&sni=news5.testsnew.com#@meli_proxyy
 
-vless://138a09b2-6a45-470a-a77f-bf75bf40e509@54.37.78.215:36632?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON%3Fed%3D2048#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
-
 vless://13dd1850-c96b-4504-b52b-f64db876b3b3@151.101.3.8:80?path=%2Ftelegram-ShadowProxy66%3Fed%3D2095&security=none&encryption=none&host=49.org&type=ws#Channel+id%3A+%40ShadowProxy66%F0%9F%87%AB%F0%9F%87%AE
 
 vless://161fa2ac-9618-4a3c-bc9b-5420ecc1826e@104.21.47.6:443?path=%2F%3F%40VPN_ROOM------%40VPN_ROOM&security=tls&encryption=none&host=v2ray-vmess-free.irnoen.workers.dev&type=ws&sni=v2ray-vmess-free.irnoen.workers.dev#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
@@ -110,13 +108,13 @@ vless://4d54fc83-3d4f-409f-a255-a3f3bfeec95c@104.248.7.217:3114?security=reality
 
 vless://4e96c457-e331-57d5-ac72-5f37e41873e1@95.164.46.39:2052?mode=gun&security=none&encryption=none&authority=JoinBadeChannel%40JOKERRVPN&type=grpc&serviceName=vless-grpc&sni=itvpnAndroid2.69.mu#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
+vless://50cfad9c-d60a-4276-bd3f-696bc1ca9c25@hol.9model.ir:1025?security=reality&encryption=none&pbk=sFgTIJFnMoj6ke5FMGqf3qWtXHftTuQk2FSTqPMHTmc&headerType=none&fp=chrome&type=tcp&sni=refersion.com#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
+
 trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#All-%F0%9F%9A%80%40proxy_shadosocks%F0%9F%9A%80
 
-trojan://2cba4104747d49d18319e5ade1b93ab5@161.35.34.48:443?security=tls&headerType=none&type=tcp&sni=yourjobnavigator.online#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://65086520307764900@useful-jennet.shiner427.skin:443?security=tls&type=tcp#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://74260704627805900@95.85.93.167:443/?type=tcp&security=tls&sni=positive-treefrog.shiner427.skin&allowInsecure=1#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
-trojan://NEHZp72yf2@dr-ping.ir:443?security=tls&host=Zula.ir&headerType=http&fp=randomized&type=tcp&sni=dr-ping.ir#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://NEHZp72yf2@dr-ping.ir:443?type=tcp&headerType=http&host=Zula.ir&path=/DrPing&security=tls&fp=randomized&sni=dr-ping.ir&alpn=h2,h3,http/1.1#@meli_proxyy
 
@@ -142,8 +140,6 @@ trojan://telegram-id-directvpn@13.61.252.238:22222?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@15.236.178.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@16.16.191.57:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
-
 trojan://telegram-id-directvpn@18.153.220.54:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@18.175.32.69:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
@@ -159,6 +155,10 @@ trojan://telegram-id-directvpn@3.248.37.227:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@3.65.235.46:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@34.253.87.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@51.20.240.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@51.44.64.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#Channel+id%3A+%40ShadowProxy66%F0%9F%87%B3%F0%9F%87%B1
 
