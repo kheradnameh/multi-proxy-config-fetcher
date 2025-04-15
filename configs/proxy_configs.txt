@@ -136,6 +136,8 @@ vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@159.65.78.203:59483?encryption=none
 
 trojan://20bc0771-1fde-45ee-8052-3c26249c43dc@250407.jichang.my:34865/?type=tcp&security=tls&sni=zurich.678789.xyz#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
+trojan://20bc0771-1fde-45ee-8052-3c26249c43dc@250407.jichang.my:52803/?type=tcp&security=tls&sni=seoul3.678789.xyz#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://2959e4f7-7589-4a40-9b96-1be750ac7845@51.83.186.142:80?security=tls&type=tcp&sni=pl1.trojanvh.xyz#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://2fec7227-9abe-46f2-af18-78302b836c45@172.67.200.238:443?allowInsecure=0&sni=3s.890689.xyz&type=ws&host=3s.890689.xyz&path=/XjTi1NYwi9A2bckpqdDoAgkondVWl#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
@@ -145,8 +147,6 @@ trojan://2ggAcGC8hJ@15.204.237.31:2083/?type=ws&host=USa-vp-31.MeTiKapps.Com&pat
 trojan://2ggAcGC8hJ@15.204.237.31:2083?path=%2Flinkws&security=tls&host=USa-vp-31.MeTiKapps.Com&type=ws&sni=USa-vp-31.MeTiKapps.Com#@meli_proxyy
 
 trojan://32b598e2-2bf7-4af1-8d17-306f839dde74@45.146.232.171:27201?allowInsecure=1#@meli_proxyy
-
-trojan://32b598e2-2bf7-4af1-8d17-306f839dde74@45.146.232.171:27201?allowInsecure=1#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://I46LpSIM1f@194.164.57.9:1935?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x4ger-ionos.devefun.net#@meli_proxyy
 
@@ -198,7 +198,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7Mg5bm/5Lic55yBIOiBlOmAmiIsImFkZCI6ImJhOTFl
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgMTEsMTJ86aaZ5rivNHxAcmlwYW9qaWVkaWFuIiwiYWRkIjoidjkuaGVkdWlhbi5saW5rIiwicG9ydCI6IjMwODA5IiwidHlwZSI6Im5vbmUiLCJpZCI6ImNiYjNmODc3LWQxZmItMzQ0Yy04N2E5LWQxNTNiZmZkNTQ4NCIsImFpZCI6IjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvb29vbyIsImhvc3QiOiJiYWlkdS5jb20iLCJ0bHMiOiIifQ==
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuvCfh7gg576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJhZGQiOiIxMDQuMTguMTE4LjE5NSIsInBvcnQiOiI4NDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjNiYjNjNzMwLWUxMDctNDljNS1hMGIyLWI1NzZkMWIyNmE1ZSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6IjE3NDM5MTk5Nzguc3BlZWQuempnemEuY2NjcC5mcmVlZmx5LnBwLnVhIiwidGxzIjoidGxzIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiIDEuME1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNTBlYzA1YmMtc3V0ajQwLXRkY2RiNy0xazI3bC5jbTUucDVwdi5jb20iLCJwb3J0IjoiMTcyMzMiLCJ0eXBlIjoibm9uZSIsImlkIjoiYmE0YjFmMmUtYzk4NS0xMWVkLTljMGMtZjIzYzkxM2M4ZDJiIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiI1MGVjMDViYy1zdXRqNDAtdGRjZGI3LTFrMjdsLmNtNS5wNXB2LmNvbSIsInRscyI6IiJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoiMXzwn4ev8J+HtTUgfCAgMS4wTUIvcyIsImFkZCI6IjUwZWMwNWJjLXN1dGo0MC10ZGNkYjctMWsyN2wuY201LnA1cHYuY29tIiwicG9ydCI6IjE3MjMzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImJhNGIxZjJlLWM5ODUtMTFlZC05YzBjLWYyM2M5MTNjOGQyYiIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiI1MGVjMDViYy1zdXRqNDAtdGRjZGI3LTFrMjdsLmNtNS5wNXB2LmNvbSIsInRscyI6IiJ9
 
@@ -214,21 +214,21 @@ vmess://eyJhZGQiOiI0NS4xMi4xMzguODIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 
 vmess://eyJhZGQiOiI0NS4xMzcuMTU1LjQ1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyNzM0NzI0LThjMDYtNGMyZS05Y2ZmLWIzNDc3NmZlMTc1NyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTc2NDYiLCJwcyI6IkBtZWxpX3Byb3h5ediz2LHZiNix2KfbjOKAjNio24zYtNiq2LEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
+vmess://eyJhZGQiOiI0NS4xMzcuMTU1LjQ1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgyNzM0NzI0LThjMDYtNGMyZS05Y2ZmLWIzNDc3NmZlMTc1NyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTc2NDYiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
 vmess://eyJhZGQiOiI0NS4xMzcuMTU1LjQ1IiwiaG9zdCI6IiIsInBvcnQiOiIxNzY0NiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwcyI6IiglNDBWbWVzc1Byb3RvY29sKSVEOCVBOCVEOCVCMSVEOCVBNyVEQiU4QyUyMCVEOCVBRSVEOCVCMSVEQiU4QyVEOCVBRiUyMCVEOSU4OCUyMCVEOCVBNyVEOCVBQSVEOCVCNSVEOCVBNyVEOSU4NCUyMCVEOCVBRiVEOCVBNyVEOCVBNiVEOSU4NSVEQiU4QyUyMCVEOCVBQyVEOSU4OCVEQiU4QyVEOSU4NiUyMCVEOCVCNCVEOSU4OCVGMCU5RiU4NyVBOSVGMCU5RiU4NyVBQSUyMCIsImlkIjoiODI3MzQ3MjQtOGMwNi00YzJlLTljZmYtYjM0Nzc2ZmUxNzU3IiwidHlwZSI6Im5vbmUiLCJzY3kiOiJhdXRvIn0=
+
+vmess://eyJhZGQiOiI0NS4xMzcuMTU1LjQ1IiwiaG9zdCI6IiIsInBvcnQiOiIxNzY0NiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImlkIjoiODI3MzQ3MjQtOGMwNi00YzJlLTljZmYtYjM0Nzc2ZmUxNzU3IiwidHlwZSI6Im5vbmUiLCJzY3kiOiJhdXRvIn0=
 
 vmess://eyJhZGQiOiI0Ni4yOS4xNjYuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjBjNDljZDE5LTI3NTgtNGQzOC1lNmE4LTExZjJkNjYzNTg2MCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDc1NTUiLCJwcyI6IihAVm1lc3NQcm90b2NvbCnYqNix2KfbjCDYrtix24zYryDZiCDYp9iq2LXYp9mEINiv2KfYptmF24wg2KzZiNuM2YYg2LTZiPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiI1LjE2MC4xNDQuMTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImNhcnZhbmFnZS5pciIsImlkIjoiN2QwOGY3ZDQtN2Y1MC00Nzg4LTgwMGMtZmFiZjkxOTM5ZTc5IiwibmV0IjoidGNwIiwicGF0aCI6Ii9hcGkvcmVnaXN0ZXIvbmV3L25hbWUvZGF2L3Jlc3BvbnNlL2NtVjBhWEpsWkNCb1pXeHNieUJvYjNjZ1lYSmxJSGx2ZFNCMGFHbHpJR2x6SUcxNUlHNWxkeUJvWldGa1pYSWdkIiwicG9ydCI6IjIwNTgiLCJwcyI6IuKchdiz2LHZiNix2YfYp9uM2KjbjNi02KrYsdiv2LHaqdin2YbYp9mEOnBycm9maWxlX3B1cnBsZUDinIUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiI1LjE4MC4zMC44NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiZjI2ZjJmYi05ZDJhLTQ5YjYtODUyNy04MmU4YWJhM2E5YTkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4NTk4IiwicHMiOiJcdTI2OWNcdWZlMGZUZWxlZ3JhbTpASVBfQ0YiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiI1LjE4MC4zMC44NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJiZjI2ZjJmYi05ZDJhLTQ5YjYtODUyNy04MmU4YWJhM2E5YTkiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4NTk4IiwicHMiOiLinIXYs9ix2YjYsdmH2KfbjNio24zYtNiq2LHYr9ix2qnYp9mG2KfZhDpwcnJvZmlsZV9wdXJwbGVA4pyFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
 vmess://eyJhZGQiOiI1LjE4MC4zMC4xNDYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjIzNDcyMzktZGQxNS00MGIzLWI2ODMtNTBjYzJmZjE5YWU3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyNzc3MyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4es8J+HpyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiI4NC41NC4xMy4zMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkZDllOTNiMC0xYTE0LTRjMjctYmEyOC00NjczZjE1ZGQ2OWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1NzkyIiwicHMiOiIoQFZtZXNzUHJvdG9jb2wp2KjYsdin24wg2K7YsduM2K8g2Ygg2KfYqti12KfZhCDYr9in2KbZhduMINis2YjbjNmGINi02Yjwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiI4OS4xOC41OC43MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MCIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5Njbwn4eo8J+HvyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5SUFnZTA2UG1QdW81T0pHRDE3c2Rn@203.25.108.78:44591#@meli_proxyy
 
