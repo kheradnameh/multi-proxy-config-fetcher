@@ -4,23 +4,23 @@
 //support-url: https://t.me/BXAMbot
 //profile-web-page-url: https://github.com/4n0nymou3
 
-wireguard://%2BBetieWFmXrTanHZAWG%2FETlpcdOUeKmGczs4zXnQAFQ%3D@188.114.98.44:880?address=172.16.0.2%2F32&reserved=84%2C1%2C24&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon2
+wireguard://%2BBetieWFmXrTanHZAWG%2FETlpcdOUeKmGczs4zXnQAFQ%3D@188.114.98.44:880?address=172.16.0.2%2F32&reserved=84%2C1%2C24&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon1
 
 wireguard://%2BHqSv0qdDVkfJT6TQu1hfpAxFGjkj21U1eu%2BN0Ph7UI%3D@188.114.99.100:1014?address=172.16.0.2%2F32&presharedkey=&reserved=30%2C238%2C4&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#@meli_proxyy
 
 wireguard://4FtgX0yndjKXEqotyYkY8uua9HN7OCkcSqS8NHgRe3k%3D@188.114.98.115:903?address=172.16.0.2%2F32&presharedkey=&reserved=245%2C248%2C171&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#@meli_proxyy
 
-wireguard://ECcAhbfQimou4v9AngMnWuUpYygzxtxORHvAQAldn0c%3D@188.114.96.95:945?address=172.16.0.2%2F32&reserved=241%2C68%2C15&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon3
+wireguard://6HFhVcetnpDm0WS0LETEEPkUmBQzKPUpPYfRbdqDkn8%3D@162.159.192.175:5279?wnoise=quic&address=172.16.0.2%2F32&reserved=8%2C29%2C164&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
+
+wireguard://6HFhVcetnpDm0WS0LETEEPkUmBQzKPUpPYfRbdqDkn8%3D@188.114.96.154:987?wnoise=quic&address=172.16.0.2%2F32&reserved=8%2C29%2C164&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
+
+wireguard://6HFhVcetnpDm0WS0LETEEPkUmBQzKPUpPYfRbdqDkn8%3D@188.114.97.209:8742?wnoise=quic&address=172.16.0.2%2F32&reserved=8%2C29%2C164&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29
+
+wireguard://6HFhVcetnpDm0WS0LETEEPkUmBQzKPUpPYfRbdqDkn8%3D@188.114.97.249:903?wnoise=quic&address=172.16.0.2%2F32&reserved=8%2C29%2C164&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66+%28warp%29کانفیگهای وایرگارد وارپتوی کلاینت NikaNg یا هر کلاینتی V2ray و استفاده کنید برای ویندوز از V2rayN Pro و از Karing برای همه سیستم عاملها استفاده کنید(متصل با همه اپراتورها)⚡️ @ShadowProxy66
+
+wireguard://ECcAhbfQimou4v9AngMnWuUpYygzxtxORHvAQAldn0c%3D@188.114.96.95:945?address=172.16.0.2%2F32&reserved=241%2C68%2C15&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon2
 
 wireguard://ECzGht1dwC0QU14eNuuo6EemEi7jKKZdWMNvp3ZXDlk%3D@188.114.98.198:928?address=172.16.0.2%2F32&presharedkey=&reserved=103%2C155%2C167&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#@meli_proxyy
-
-wireguard://GHbUvD2kyac%2F16wTVWTd2KcSzJSaIUr87hRz2wjeTGM%3D@188.114.98.214:1014?address=172.16.0.2%2F32&reserved=94%2C104%2C28&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon9
-
-wireguard://GX2HBifMqofZuqDeuUpLpO2VWlChtHhBYzUz%2B9Xkxp0%3D@162.159.192.184:3476?address=172.16.0.2%2F32%2C2606%3A4700%3A110%3A852c%3A4a12%3A7ae6%3A7e47%3Af35f%2F128&presharedkey=&reserved=135%2C252%2C97&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1380#@meli_proxyy
-
-wireguard://OOQ8KbbIZ7dGnwxjLMZCvtTKy2PgD9O%2BxT6LaOzo0Ug%3D@188.114.97.201:955?address=172.16.0.2%2F32&reserved=238%2C196%2C168&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon4
-
-wireguard://YAenFwIsch%2BqCv4QGkgO0rNFLLGSERESQVAf5RxENX4%3D@188.114.98.236:987?address=172.16.0.2%2F32&reserved=189%2C31%2C174&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon7
 
 vless://---telegram--ISVvpn---1@www.speedtest.net:2086?path=%2Ftelegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn-telegram-%40ISVvpn%3Fed%3D2048&security=none&encryption=none&host=www.isvpy.ir&type=httpupgrade#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 
@@ -132,6 +132,8 @@ trojan://e6a2e741-0fce-440b-910c-b81325e2263a@strut-brisk-scope.stark-industries
 
 trojan://pqlnPNu423@57.129.89.172:1935?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1-germany-ovh-v2.devefun.net#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
+trojan://pqlnPNu423@57.129.89.172:1935?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp&sni=x1-germany-ovh-v2.devefun.net#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 trojan://telegram-id-directvpn@13.37.143.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@13.38.208.235:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
@@ -179,8 +181,6 @@ trojan://telegram-id-privatevpns@13.38.208.235:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@13.60.151.163:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S110)🇸🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.237.241.92:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@18.184.137.232:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WDB4SnM3Qm40eVh4ZVBiUWhmc0txYzBDaUFpNWE3dGNWNkdGUEN5WVduND06TGlXTStIK1NXTXJObllaaU9qcG1PeldNVzBCTVlDQnJMQzU3TzVVYitOcz0%3D@212.118.42.181:9260#@meli_proxyy
 
@@ -264,25 +264,25 @@ vmess://ewogICAgImFkZCI6ICI3MjM5YTgzNi1zdW56NDAtc3VxanFxLTFwcjM1LmhrLnA1cHYuY29t
 
 vmess://eyJ0bHMiOiJ0bHMiLCJwYXRoIjoiXC9saW5rdndzI1RFTEVHUkFNLU1BUkFNQkFTSElfTUFSQU1CQVNIST9lZD01MTIiLCJzY3kiOiJhdXRvIiwicHMiOiIoJTQwVm1lc3NQcm90b2NvbCklRDglQTglRDglQjElRDglQTclREIlOEMlMjAlRDglQUUlRDglQjElREIlOEMlRDglQUYlMjAlRDklODglMjAlRDglQTclRDglQUElRDglQjUlRDglQTclRDklODQlMjAlRDglQUYlRDglQTclRDglQTYlRDklODUlREIlOEMlMjAlRDglQUMlRDklODglREIlOEMlRDklODYlMjAlRDglQjQlRDklODglRjAlOUYlODclQTklRjAlOUYlODclQUElMjAiLCJhbHBuIjoiIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJzbmkiOiJrYXBlbGxlbmcuY29tIiwiYWRkIjoia2FwZWxsZW5nLmNvbSIsInBvcnQiOiI0NDMiLCJob3N0Ijoia2FwZWxsZW5nLmNvbSIsIm5ldCI6IndzIn0=
 
-vmess://eyJ2IjogIjIiLCAicHMiOiAiM3zwn4e68J+HuDgxIHwgIDIuNk1CL3MiLCAiYWRkIjogImM2MTQ3MzY1LXN2amdnMC10MjhiNm8tZWY0OC5jdS5wbGViYWkubmV0IiwgInBvcnQiOiA1MjI4LCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiY2IxNTEyM2EtMDg0Yy0xMWYwLThlYWItZjIzYzkxY2ZiYmM5In0=
-
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZjhcdWQ4M2NcdWRkZWMgU0ctNDYuMjUwLjIzNy40ODoxNjM2OSIsICJhZGQiOiAiNDYuMjUwLjIzNy40OCIsICJwb3J0IjogIjE2MzY5IiwgImlkIjogIjExYWE0NjE0LWJiNjMtNDVmZS05ZDRiLWYzYjIxNWM2MzllNSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjkwIn0=
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVdTLU5BIFx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBISy0xMTIuMTIwLjEyNS4xMDU6ODEwMiIsICJhZGQiOiAiMTEyLjEyMC4xMjUuMTA1IiwgInBvcnQiOiAiODEwMiIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNmQ1NjQzNmMtMTUwZC0xMWYwLWIwYzgtZjIzYzkxM2M4ZDJiIiwgImFpZCI6ICIyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICI5ZTk2OGI1MS1zdnAwZzAtdDZmbDBjLTFyN29kLnd0dDUucDVwdi5jb20iLCAidGxzIjogIiJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hr/Cfh7Ug5pel5pysNXxAcmlwYW9qaWVkaWFuIiwiYWRkIjoiNDcuNzQuNDEuMTQ3IiwicG9ydCI6IjUzODkzIiwidHlwZSI6InNydHAiLCJpZCI6IjA3Mjg3MzYwLWUxMmYtNGY5NC05YzdhLTU0Mzg2YzEwMGQ4YSIsImFpZCI6IjAiLCJuZXQiOiJrY3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgMTR85Lit5Zu9IC0g6aaZ5rivIC0gQ25zZXJ2ZXJzIExMQyAtIDI5IiwiYWRkIjoiMTIwLjE5OC43MS4yMTYiLCJwb3J0IjoiMzU5MjEiLCJ0eXBlIjoibm9uZSIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==
-
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgMTMsMTR85paw5Yqg5Z2hMnxAcmlwYW9qaWVkaWFuIiwiYWRkIjoic2cxLmcyLm1vb25iYXNlLmxpZmUiLCJwb3J0IjoiMzUxMTEiLCJ0eXBlIjoibm9uZSIsImlkIjoiYzMxMzY4MTQtYTA3ZS00MWY2LWFkOTQtOGUyMDQ1OGMwZDIxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ob21lIiwiaG9zdCI6InNnMS5nMi5tb29uYmFzZS5saWZlIiwidGxzIjoidGxzIn0=
 
 vmess://eyJ2IjoiMiIsInBzIjoiIDIuNk1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiYzYxNDczNjUtc3ZqZ2cwLXQyOGI2by1lZjQ4LmN1LnBsZWJhaS5uZXQiLCJwb3J0Ijo1MjI4LCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiY2IxNTEyM2EtMDg0Yy0xMWYwLThlYWItZjIzYzkxY2ZiYmM5In0=
 
+vmess://eyJ2IjoiMiIsInBzIjoiMjjvvZ5UR+mikemBk0BzdHltZWkxIiwiYWRkIjoiNTkuNDIuMjQ3LjE4OSIsInBvcnQiOiI4MDA0IiwidHlwZSI6Im5vbmUiLCJpZCI6ImRkNzIyZTg2LTZjZWMtNDRlOC1hNDQ0LTdmNTEzYWI2MWMwYyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbm1raiIsImhvc3QiOiJ3d3cuYmluZy5jb20iLCJ0bHMiOiIifQ==
+
 vmess://eyJ2IjoiMiIsInBzIjoiMzUiLCJhZGQiOiI1OS40Mi4yNDcuMTg5IiwicG9ydCI6IjgwMDQiLCJ0eXBlIjoibm9uZSIsImlkIjoiNTk4OWJmNDUtYTk5Yy00NzU0LThmZjEtN2MxMTVkOThkMjkzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9ubWtqIiwiaG9zdCI6Ind3dy5iaW5nLmNvbSIsInRscyI6IiJ9
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDYuMjUwLjIzNy40OCIsInBvcnQiOiIxNjM2OSIsImlkIjoiMTFhYTQ2MTQtYmI2My00NWZlLTlkNGItZjNiMjE1YzYzOWU1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiOTAifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTEyLjEyMC4xMjUuMTA1IiwicG9ydCI6IjgxMDIiLCJ0eXBlIjoibm9uZSIsImlkIjoiNmQ1NjQzNmMtMTUwZC0xMWYwLWIwYzgtZjIzYzkxM2M4ZDJiIiwiYWlkIjoiMiIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwiaG9zdCI6IjllOTY4YjUxLXN2cDBnMC10NmZsMGMtMXI3b2Qud3R0NS5wNXB2LmNvbSIsInRscyI6IiJ9
 
-vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDIuM01CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTcyLjY3LjE5OC4xODciLCJwb3J0Ijo0NDMsImlkIjoiOTNlYTQ4NmEtYmFkYS00MmE0LWFjMzgtZDA4OGIzMjBmYTFlIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWl2aWRlby5jZmQiLCJwYXRoIjoiXC9saW5rd3MiLCJob3N0IjoieG1pdmlkZW8uY2ZkIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiNDcuNzQuNDEuMTQ3IiwicG9ydCI6IjUzODkzIiwidHlwZSI6InNydHAiLCJpZCI6IjA3Mjg3MzYwLWUxMmYtNGY5NC05YzdhLTU0Mzg2YzEwMGQ4YSIsImFpZCI6IjAiLCJuZXQiOiJrY3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIn0=
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDEuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiaGsyLmxyemR4LnVrIiwicG9ydCI6NDQzLCJpZCI6ImRiNjlkNWJjLWQzNmMtNDkwMy1mNDcxLTc0Yjk4YzVjZWZlNSIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoiaGsyLmxyemR4LnVrIiwicGF0aCI6IlwvcmVnaXN0ZXIifQ==
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyYjA3XHVmZTBmIDQuMU1CXC9zXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTA0LjE5LjMyLjAiLCJwb3J0Ijo0NDMsImlkIjoiOTNlYTQ4NmEtYmFkYS00MmE0LWFjMzgtZDA4OGIzMjBmYTFlIiwidHlwZSI6IiIsImFpZCI6MCwibmV0Ijoid3MiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ4bWl2aWRlby5jZmQiLCJwYXRoIjoiXC9saW5rd3MiLCJob3N0IjoieG1pdmlkZW8uY2ZkIn0=
 
