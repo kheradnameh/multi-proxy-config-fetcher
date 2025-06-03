@@ -116,13 +116,15 @@ trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.159.251.33:443?security=tls&hea
 
 trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.67.229.222:443?security=tls&headerType=none&type=tcp&sni=morse-stank-most.stark-industries.solutions#Channel%20id%3A%20%40ShadowProxy66%F0%9F%87%B2%F0%9F%87%A915 کانفیگ اختصاصی V2ray همراه اولMCI ❤️ &....⚡️ @ShadowProxy66
 
-trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@95.164.38.151:443?security=tls&headerType=none&type=tcp&sni=copy-wifi-twins.stark-industries.solutions#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+trojan://0fc9c5ff-9531-4178-966f-7d958e1df64b@45.67.229.222:443?security=tls&headerType=none&type=tcp&sni=morse-stank-most.stark-industries.solutions#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
 
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=chop-wrist-bud.stark-industries.solutions#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=nacho-rerun-crepe.stark-industries.solutions#@meli_proxyy
+
+trojan://3482c71a-d01c-4ae5-b454-fa8cb3785f66@guy-trace-lyric.stark-industries.solutions:443?security=tls&type=tcp&headerType=none#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://e6a2e741-0fce-440b-910c-b81325e2263a@94.131.20.3:443?security=tls&headerType=none&type=tcp&sni=cache-giver-wife.stark-industries.solutions#@meli_proxyy
 
@@ -156,8 +158,6 @@ trojan://telegram-id-directvpn@35.180.72.238:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@35.181.193.126:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@35.181.193.126:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 trojan://telegram-id-directvpn@63.178.210.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 vmess://ewogICAgImFkZCI6ICIwYWZhMmI0Ny1zdjB4czAtdDUxdXBqLW9jaGguaGsucDVwdi5jb20iLAogICAgImFpZCI6IDIsCiAgICAiaG9zdCI6ICIwYWZhMmI0Ny1zdjB4czAtdDUxdXBqLW9jaGguaGsucDVwdi5jb20iLAogICAgImlkIjogImNmODllMDY0LTVjNzctMTFlYi1iZDNhLWYyM2M5MTY0Y2E1ZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4et8J+HsEhLLTQyLjIuMTEzLjEzNi01NTk0IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iCn0=
@@ -165,6 +165,8 @@ vmess://ewogICAgImFkZCI6ICIwYWZhMmI0Ny1zdjB4czAtdDUxdXBqLW9jaGguaGsucDVwdi5jb20i
 vmess://ewogICAgImFkZCI6ICIyc2RmcmUzLjk5OTgyMC54eXoiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIyc2RmcmUzLjk5OTgyMC54eXoiLAogICAgImlkIjogIjkwZjM1N2RkLTc5YWMtNDdjNi1iMGI4LTk1OGUyZDE5ZGUwNyIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8xMFc2U0phSzBGMG9WWGVOVTZTMlJWUlAiLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4+BUkVMQVktMTA0LjIxLjExMi4xLTA5OTQiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 
 vmess://ewogICAgImFkZCI6ICJkYjdmNGMyZi1zdW00ZzAtc3lhNnUyLTRsZzYuaGsucDVwdi5jb20iLAogICAgImFpZCI6IDIsCiAgICAiaG9zdCI6ICJkYjdmNGMyZi1zdW00ZzAtc3lhNnUyLTRsZzYuaGsucDVwdi5jb20iLAogICAgImlkIjogImE0YzliN2NjLWE4MTYtMTFlZC05ZjY1LWYyM2M5MTY0Y2E1ZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4et8J+HsEhLLTQyLjIuMTEzLjEzNi01NDY5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiYnJvYWRjYXN0bHYuY2hhdC5iaWxpYmlsaS5jb20iCn0=
+
+vmess://ewogICAgImFkZCI6ICJsdjQuNzg5OTAwLnh5eiIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImx2NC43ODk5MDAueHl6IiwKICAgICJpZCI6ICI3ZGQxNmFiMS0yYTM2LTRiMzItODZmZC1lYjQ5ZmIwMzk3NTIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvN2RkMTZhYjEtMmEzNi00YjMyLTg2ZmQtZWI0OWZiMDM5NzUyLXZtIiwKICAgICJwb3J0IjogMjA4NywKICAgICJwcyI6ICLwn4ew8J+Ht0tSLTE0MC4yMzguMTguMjE1LTU5ODMiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJsdjQuNzg5OTAwLnh5eiIKfQ==
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OQSBcdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAgSEstMjE2LjI1MC45Ny4xMzg6OTAwIiwgImFkZCI6ICIyMTYuMjUwLjk3LjEzOCIsICJwb3J0IjogIjkwMCIsICJpZCI6ICIyMGFjMDQ2NS0xODRkLTRiYWMtOTI3YS02ZjUwOTFjN2IxNDkiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInRlc3RfbmFtZSI6ICJISzIifQ==
 
@@ -175,8 +177,6 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OT05FIFx1ZDgzY1x1ZGRl
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgMTN88J+HuPCfh6wg5paw5Yqg5Z2hMnxAcmlwYW9qaWVkaWFuIiwiYWRkIjoiMTgzLjIzNi41MS4zOCIsInBvcnQiOiI0OTMwMiIsInR5cGUiOiJub25lIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiJ9
 
 vmess://eyJ2IjoiMiIsInBzIjoiMnzwn4e48J+HrDEgfCAgMS4wTUIvc3wwJXxOZXRmbGl4fERpc24uLi4iLCJhZGQiOiIxODMuMjM2LjUxLjM4IiwicG9ydCI6IjQ5MjkxIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
-
-vmess://eyJ2IjoiMiIsInBzIjoiMnzwn4ep8J+HqjUgfCAgMS40TUIvc3wwJXxZb3V0dWJlfE9wZW4uLi4iLCJhZGQiOiJkZS52bWVzcy5jb21ucG1qcy5jb20iLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6ImNlYWFmNjUzLTk4NzQtNThjNi1iMTAwLTA5MmMwMWExZjczZCIsImFpZCI6IjAiLCJuZXQiOiJncnBjIiwicGF0aCI6InZtZXNzLWdycGMiLCJob3N0IjoiZGUudm1lc3MuY29tbnBtanMuY29tIiwidGxzIjoidGxzIn0=
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE5NmM%3D@107.191.63.241:30665#@meli_proxyy
 
