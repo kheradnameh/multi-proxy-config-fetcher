@@ -188,11 +188,11 @@ trojan://telegram-id-directvpn@35.181.25.102:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@35.181.254.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@35.181.254.132:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 trojan://telegram-id-directvpn@35.181.28.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@63.176.124.40:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-privatevpns@13.37.177.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://eyJ2IjoiMiIsInBzIjoi77iPX+acquefpSIsImFkZCI6ImhhYS5kYXNodWFpLmN5b3UiLCJwb3J0IjoiNDUwNTQiLCJ0eXBlIjoibm9uZSIsImlkIjoiYWE3YWE5ODMtNGI1Zi00NzFhLThjN2YtMTNhOTUwMmI3MjQxIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6ImhhYS5kYXNodWFpLmN5b3UiLCJ0bHMiOiIifQ==
 
@@ -204,9 +204,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiMSB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9D
 
 vmess://eyJ2IjoiMiIsInBzIjoiMiB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJrZTdoejM2ZXd6IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImtlN2h6MzZld3otNDUxNTAxNzQ3My5tYXNoYWxsYWhiZXQuY29tIiwicGF0aCI6IlwvbmFzbmV0XC9jZG4iLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 
-vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAc3R5bWVpMeS4qDE2IiwiYWRkIjoiNS4xMC4yNDUuODkiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6Ijg5MTNiZDJjLWZkNmItNDI1My05MDc2LTc1M2VkYmJiYzkwYyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZmQ2YiIsImhvc3QiOiJ1czEubHpqbmIuc2hvcCIsInRscyI6InRscyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiNyB8IEVtZXJnZW5jeVx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6Im5wbWpzLmNvbSIsInBvcnQiOiI4MDgwIiwiaWQiOiJ4eW1rYWxucm04IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6Inh5bWthbG5ybTgtMTYxOTcxMDIxODkubWFzaGFsbGFoYmV0LmNvbSIsInBhdGgiOiJcL25hc25ldFwvY2RuIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
 
-vmess://eyJ2IjoiMiIsInBzIjoiX+S4reWbvSIsImFkZCI6InhkZC5kYXNodWFpLmN5b3UiLCJwb3J0IjoiNDUwNTEiLCJ0eXBlIjoibm9uZSIsImlkIjoiYWE3YWE5ODMtNGI1Zi00NzFhLThjN2YtMTNhOTUwMmI3MjQxIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InhkZC5kYXNodWFpLmN5b3UiLCJ0bHMiOiIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoiVEfpopHpgZNAc3R5bWVpMeS4qDE2IiwiYWRkIjoiNS4xMC4yNDUuODkiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6Ijg5MTNiZDJjLWZkNmItNDI1My05MDc2LTc1M2VkYmJiYzkwYyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZmQ2YiIsImhvc3QiOiJ1czEubHpqbmIuc2hvcCIsInRscyI6InRscyJ9
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE5NmM%3D@107.191.63.241:30665#@meli_proxyy
 
