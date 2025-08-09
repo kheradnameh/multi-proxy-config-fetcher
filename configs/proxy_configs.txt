@@ -36,6 +36,8 @@ trojan://telegram-id-directvpn@13.39.67.184:22223?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@15.237.5.121:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@15.237.5.121:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 trojan://telegram-id-directvpn@18.193.191.106:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@3.72.122.16:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
@@ -48,7 +50,7 @@ trojan://telegram-id-directvpn@35.180.206.105:22223?security=tls&alpn=http/1.1&h
 
 trojan://telegram-id-directvpn@35.180.206.105:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-trojan://telegram-id-directvpn@35.181.248.2:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
+trojan://telegram-id-directvpn@35.181.70.2:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@52.59.51.173:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
@@ -60,13 +62,11 @@ trojan://telegram-id-directvpn@63.178.151.21:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-privatevpns@13.36.4.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
-trojan://telegram-id-privatevpns@13.37.253.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
 vmess://ewogICAgImFkZCI6ICI0Ny44NC42Mi4xIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJkMmEwYmNkNy1lMzJkLTRiNzEtOTFhOS01ZmQ3MDQzYjcwMjUiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMjAwODYsCiAgICAicHMiOiAi8J+HuPCfh6xTRy00Ny44NC42Mi4xLTUzNDMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 
 vmess://eyJ2IjoiMiIsInBzIjoi576O5Zu9MDLku5jotLnmjqjojZDvvJpodHRwczovL2RhZmVpLmRlIiwiYWRkIjoiNjkuODQuMTgyLjEwOCIsInBvcnQiOjgwLCJpZCI6IjUyN2E3YzA0LTlhMmMtNGZkYi1hYTE4LTM3MzM3ZTYyZTkxNyIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoiIiwicGF0aCI6Ii9wcm9maWxlL3RlbGVncmFtQHNzcnN1YiIsImhvc3QiOiJjZG4tbm9kZS1vc3MtOTkucGFvZnUuZGUifQ==
 
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNiIsImFkZCI6IjQ3Ljc5LjQxLjE0IiwicG9ydCI6IjE1OTI0IiwiaWQiOiJmNTA2MjhlZC1lNTY4LTRjZGUtZWRhOC0zZGNlMTVlZGMxYzEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6Ii9mNTA2MjhlZCIsInRscyI6IiIsInNuaSI6IiIsInRlc3RfbmFtZSI6IjYifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi576O5Zu9MDPku5jotLnmjqjojZDvvJpodHRwczovL2RhZmVpLmRlIiwiYWRkIjoicHViZy5hYyIsInBvcnQiOjgwLCJpZCI6Ijk1YzI3Y2M0LTgyYjUtNDVkYS05NjJlLWJhNjc1NjQyZmMzZCIsInR5cGUiOiIiLCJhaWQiOjAsIm5ldCI6IndzIiwidGxzIjoiIiwicGF0aCI6Ii9wcm9maWxlL3RlbGVncmFtQHNzcnN1YiIsImhvc3QiOiJjZG4tbm9kZS1vc3MtOTkucGFvZnUuZGUifQ==
 
 vmess://eyJhZGQiOiAidHVuLnNuYXBwcmx0Mi5uaWthc3RvcmluZy5pciIsICJhaWQiOiAiMCIsICJob3N0IjogInRnanUub3JnIiwgImlkIjogIjFmYjNiYjliLTI5ZGEtNGRmNi05M2E1LWIwOWM3ZmFlNTA2YyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMTYxNiwgInBzIjogIlx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSBGaW5sYW5kLVZJUFx1MjZhMVx1ZmUwZiIsICJzY3kiOiAiYXV0byIsICJ0bHMiOiAibm9uZSIsICJ0eXBlIjogImh0dHAiLCAidiI6ICIyIn0=
 
