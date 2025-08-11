@@ -52,6 +52,8 @@ trojan://telegram-id-directvpn@18.193.13.65:22223?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@18.198.111.78:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
+trojan://telegram-id-directvpn@18.198.111.78:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
+
 trojan://telegram-id-directvpn@3.124.16.18:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@3.124.179.125:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
@@ -63,8 +65,6 @@ trojan://telegram-id-directvpn@3.79.132.34:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@35.181.70.2:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@63.178.100.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@63.178.100.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJUZWxlZ3JhbS1SbnJpZmNpLVZpZW5uYS0yIiwKICAiYWRkIjogIjQ1LjEzOC43NC4xNzMiLAogICJwb3J0IjogMTM3MDAsCiAgImlkIjogIjJhMTI5NDI0LTZkN2YtNDAyZS05NDZjLWM4Mzk2YTM5ZTUxMyIsCiAgIm5ldCI6ICJncnBjIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiLAogICJwYXRoIjogIlRlbGVncmFtQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2lAUm5yaWZjaUBSbnJpZmNpQFJucmlmY2kiCn0=
 
