@@ -72,17 +72,11 @@ trojan://telegram-id-directvpn@13.36.252.221:22223?security=tls&alpn=http/1.1&he
 
 trojan://telegram-id-directvpn@13.39.45.108:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@15.236.169.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
 trojan://telegram-id-directvpn@15.236.5.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@15.236.5.224:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
-trojan://telegram-id-directvpn@18.197.119.26:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@3.74.185.110:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@3.76.184.58:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
+trojan://telegram-id-directvpn@18.158.32.88:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlRlbGVncmFtIEB2cG5qZXkgIFx1RDgzQ1x1RERFOVx1RDgzQ1x1RERFQVx1RDgzQ1x1RERFOVx1RDgzQ1x1RERFQSIsDQogICJhZGQiOiAiMTUxLjEwMS42Ni4yMTkiLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICI4YjczNmEzYi0zYWI4LTQ4NzUtYWRhYS01YTU4ZGViMjhhZTEiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInhodHRwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImJwaTYuZ2xvYmFsLnNzbC5mYXN0bHkubmV0IiwNCiAgInBhdGgiOiAiLz9ob3N0PTIwNDhUZWxlZ3JhbUB2aXR1cmV5VGVsZWdyYW1Adml0dXJleSIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==
 
