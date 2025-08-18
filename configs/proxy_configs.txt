@@ -62,11 +62,7 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-
 
 trojan://telegram-id-directvpn@13.39.28.15:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@13.39.28.15:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
-
 trojan://telegram-id-directvpn@15.188.132.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@15.236.29.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@18.184.151.107:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
@@ -80,13 +76,9 @@ trojan://telegram-id-directvpn@3.64.229.244:22223?security=tls&alpn=http/1.1&hea
 
 trojan://telegram-id-directvpn@3.67.162.65:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
-trojan://telegram-id-directvpn@3.70.108.25:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
 trojan://telegram-id-directvpn@3.70.73.5:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@35.181.13.3:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
-
-trojan://telegram-id-directvpn@35.181.215.179:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@35.181.215.179:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
@@ -95,6 +87,8 @@ trojan://telegram-id-directvpn@35.181.23.234:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@52.47.33.108:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@52.47.96.192:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@54.93.134.231:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@63.178.134.70:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel : @DirectVPN @DirectVPN ✴️
 
@@ -112,6 +106,10 @@ vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC4xNDciLAogICAgImFpZCI6IDAsCiAgICAiaG9z
 
 vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4yMS42Mi4xNDQiLCJwb3J0Ijo0NDMsImlkIjoiOWRhMTAwMjItNDQ4MC00Nzk0LTgzMzgtMzNmODdjYmJmMmQ0Iiwic2N5IjoiemVybyIsIm5ldCI6InhodHRwIiwidGxzIjoidGxzIiwicGF0aCI6IlwvU2F1cm9uXC8iLCJob3N0IjoiIiwidHlwZSI6ImF1dG8iLCJzbmkiOiJzYXVyb24yLm1lbGtvcmUuaXIiLCJmcCI6InJhbmRvbWl6ZWQiLCJhbHBuIjoiaDMsaDIsaHR0cFwvMS4xIiwiYWxsb3dJbnNlY3VyZSI6dHJ1ZSwicHMiOiJcdWQ4M2RcdWRlYTkgQ0YgfCBcdWQ4M2RcdWRkMTIgVk1FU1MgfCBAcHJveGllIFsxNl0ifQ
 
+vmess://eyJhZGQiOiAiMTAzLjk2LjczLjE2MiIsICJ2IjogIjIiLCAicHMiOiAiSG9uZyBLb25nIiwgInBvcnQiOiAyMDA4NiwgImlkIjogIjI1M2ZkMjJkLTZjYmUtNDk1My04OTFiLTRjZTMxMDhlZDkzNSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
+
+vmess://eyJhZGQiOiI0My4xMzQuNzkuMTU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjY0MTA2YzdiLTM3NDgtNGFmMi1iZmRlLWZhYWQxMDdmYzc0YSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4e48J+HrEBGcmVha0NvbmZpZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
 vmess://eyJhZGQiOiI0NS42Ny4xMzkuMjI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImQzOTI4MzMwLTQwNTAtNDdmNi05ZDFjLWRmMWZkODAxYzU2OCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh6vwn4e3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiI0NS4xNTkuNTEuMTE2IiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImMwNjc5N2Q1LWZhNDEtNGI0OC1iMTMyLWQyNjhkMmFjYjMwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjQ4MDE5IiwicHMiOiJAYXdsaXhfaXIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
@@ -123,8 +121,4 @@ vmess://eyJhZGQiOiI0Ni4xNjUuMTk0Ljk2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 vmess://eyJhZGQiOiI1MS4yNTQuMjEuMTkzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjliY2VjYjI2LTkyMGEtNGU2OC1iMjk2LTg4NTI2MzEwYmZmNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjAwODYiLCJwcyI6IuKchdiz2LHZiNix2YfYp9uM2KjbjNi02KrYsdiv2LHaqdin2YbYp9mEOnBycm9maWxlX3B1cnBsZUDinIUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiI1MS4zOC42NC4yMDkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2RhNDU3ZGEtZWQwZi00MzdkLWM4MWQtNmMzNTg4NWJiZWEzIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDAyMyIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+HrPCfh6ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiI2NC4yMjcuNDUuOTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNWUwMmJjMDEtNDJhNy00NjA5LWIyMGEtNGQ5M2ZlZWE2NWM2IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDA4NiIsInBzIjoiQ2hhbm5lbCBpZDogQFNoYWRvd1Byb3h5NjYg8J+HrPCfh6ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-vmess://eyJhZGQiOiI2NS4xMDkuMTkwLjkxLnN1dXBlcm1lYXQuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYjQ0OTNlZWQtZDMxNi00NWQ1LWFkZGYtOTg1N2ZmZWJhMzBlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiLinIXYs9ix2YjYsdmH2KfbjNio24zYtNiq2LHYr9ix2qnYp9mG2KfZhDpwcnJvZmlsZV9wdXJwbGVA4pyFIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 
