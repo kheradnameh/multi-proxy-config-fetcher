@@ -24,8 +24,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKchUBWTUVTU1BST1RPQ09MIiwNCiAgImFkZCI6
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuKchUBWTUVTU1BST1RPQ09MIiwNCiAgImFkZCI6ICIzOC4xNDcuMTYwLjQ4IiwNCiAgInBvcnQiOiAiMzg3NTYiLA0KICAiaWQiOiAiYTk2ODUxYzktOTYwZS00ZGJlLWJkNDktMzY0YzI4ZmVhNWMxIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJodHRwIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
 
-vmess://ewogICAgImFkZCI6ICJ2MTAuaGVkdWlhbi5saW5rIiwKICAgICJhaWQiOiAyLAogICAgImhvc3QiOiAidjEwLmhlZHVpYW4ubGluayIsCiAgICAiaWQiOiAiY2JiM2Y4NzctZDFmYi0zNDRjLTg3YTktZDE1M2JmZmQ1NDg0IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL29vb28iLAogICAgInBvcnQiOiAzMDgwNywKICAgICJwcyI6ICLwn4et8J+HsEhLLTIxOS43OS4xODcuMTg4LTUwNTYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJiYWlkdS5jb20iCn0=
-
 vmess://ewogICAgImFkZCI6ICJqYW1la2sub3JnIiwKICAgICJhaWQiOiAxLAogICAgImhvc3QiOiAiamFtZWtrLm9yZyIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4eo8J+HpkNBLTE1LjIzNS4xMTkuNy0wMjQ1IiwKICAgICJ0bHMiOiAidGxzIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiamFtZWtrLm9yZyIKfQ==
 
 vmess://eyJ2IjogIjIiLCAicHMiOiAi5Y+w5rm+fEByaXBhb2ppZWRpYW4iLCAiYWRkIjogIjEwMy4yMzYuMjI3LjciLCAicG9ydCI6ICI0OTc5NSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJhOTAyNGYxZC03N2ExLTRjNTYtODdjNy1lZWVlNTM5ODY2N2UiLCAic25pIjogIiJ9
@@ -34,9 +32,13 @@ vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiMTcy
 
 vmess://eyJ2IjoiMiIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwiYWRkIjoiY3BhbmVsLmVyYWRlMzMuaXIiLCJwb3J0IjoiMTAwIiwiaWQiOiIyMGY0MDc1MS0yYzU1LTQzMzgtYjA0Zi1mOTQwOWM2ZGY1YzMiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6InVwbG9hZGJveS5jb20iLCJwYXRoIjoiXC8iLCJ0bHMiOiIifQ==
 
+vmess://eyJ2IjpudWxsLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsImFkZCI6IjQ3LjIzOS4xMTcuMjAyIiwicG9ydCI6NDU5NzksImlkIjoiMjNiZGY2ZGYtYzQ4Mi00NmQwLWMwZjQtNWE5OGQ1MzRlYTExIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOiIiLCJhbHBuIjpudWxsLCJwYXRoIjoiXC90ZXN0IiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGx9
+
 trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?security=tls&sni=hk.freeguard.org&type=tcp&path=%2f#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&headerType=none&type=tcp&sni=rc8.freeguard.org&fp=chrome&allowInsecure=1#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
+trojan://7778e684-f435-4166-bf9e-0256cb28bf10@download2hkt.windowsupdate.lol:443?type=tcp&security=tls&fp=chrome&allowInsecure=1#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?type=tcp&security=tls&fp=chrome&sni=207.148.100.75&allowInsecure=1#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
@@ -79,8 +81,6 @@ trojan://telegram-id-privatevpns@13.37.205.90:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.39.254.180:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 trojan://telegram-id-privatevpns@15.236.9.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
-
-trojan://telegram-id-privatevpns@15.237.168.148:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNsآموزش استفاده از سرورها @PrivateVPNs
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFkZGNlZC1lNmVlLTQxNzUtOWMxYS1lNTI0MDA5ZjkwNDU@144.126.146.38:30100#%F0%9F%87%BA%F0%9F%87%B8%20Seattle%2C%20WA%2C%20United%20States%20%287%29 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
